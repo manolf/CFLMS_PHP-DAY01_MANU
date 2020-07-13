@@ -1,0 +1,22 @@
+h1{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color:  limegreen;
+	
+}
+
+h2{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color:  yellow;
+	/* background: black; */
+	background: url("https://cdn.pixabay.com/photo/2014/05/27/23/32/matrix-356024_960_720.jpg")  no-repeat center center; 
+	
+}
+
+.foto{
+	width: 200px;
+	height:300px;
+}
